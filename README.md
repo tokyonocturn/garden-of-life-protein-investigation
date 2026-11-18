@@ -60,7 +60,8 @@ docs/
   10-price-analysis.md            Price per serving, per gram protein, per 25 g protein
   11-comparisons.md               Head-to-head vs organic and non-organic competitors
   12-verdict.md                   Advantages, disadvantages, risks, who should/shouldn't
-  13-references.md                Full numbered reference list with URLs
+  13-references.md                Full numbered reference list with DOIs and PMIDs
+  14-source-verification.md       How every blocked citation was confirmed, corrected or removed
 data/
   gol_products.csv                Product/flavor master table with panels and prices
   gol_amino_acids.csv             Labeled amino acid profiles (mg per serving)
@@ -68,7 +69,8 @@ data/
   gol_thresholds.csv              Regulatory and advisory limits used for comparison
 scripts/
   analyze.py                      Recomputes all derived tables (stdlib only)
-  check_links.py                  Verifies every cited URL resolves
+  check_links.py                  Checks every cited URL over HTTP
+  verify_refs.py                  Re-checks blocked sources via Crossref, PubMed and the Wayback Machine
 docs/generated/                   Output of analyze.py (do not edit by hand)
 ```
 
@@ -76,7 +78,8 @@ docs/generated/                   Output of analyze.py (do not edit by hand)
 
 ```bash
 python scripts/analyze.py          # writes docs/generated/*.md
-python scripts/check_links.py      # checks every URL in docs/13-references.md
+python scripts/check_links.py      # checks every URL in the report
+python scripts/verify_refs.py      # re-confirms sources that block automated clients
 ```
 
 No third-party Python packages are required. All inputs are in `data/`.
@@ -91,6 +94,10 @@ No third-party Python packages are required. All inputs are in `data/`.
 - **Marketing** = assertion with no independent support.
 
 Where a number is an estimate I say so and show the arithmetic. Where sources disagree (for example, CR's 564% versus the 552% implied by its rounded 2.76 µg figure) I show both.
+
+## Source verification
+
+Link checking only proves a URL answered. Every source that returned 401/403/429 to an automated request was re-checked against Crossref, PubMed, Semantic Scholar or an archived copy, and each claim was matched to the paper's abstract rather than its title. All 15 peer-reviewed articles were confirmed; three web citations were corrected or replaced and one was removed. The per-source record, including what could not be confirmed and why, is in [docs/14-source-verification.md](docs/14-source-verification.md).
 
 ## What this is not
 

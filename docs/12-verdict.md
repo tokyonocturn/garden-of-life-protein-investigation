@@ -33,7 +33,7 @@ A "C" is not a condemnation. It means: **average product, above-average marketin
 2. **Complete amino acid profile.** Pea + rice complementation works; the flagship's AAS is 0.91, SPORT's is 1.00 on labeled data.
 3. **Low sugar, meaningful fiber.** 0 g sugar in most SKUs; 5–9 g fiber in Meal and Fit, which is real satiety value.
 4. **No artificial colors, flavors or sweeteners.** Stevia and erythritol only; no sucralose, acesulfame K, polysorbate 80 or carrageenan.
-5. **Real, verifiable certifications.** USDA Organic, Non-GMO Project, NSF, Informed Choice, Kosher, vegan, gluten-free; **NSF Certified for Sport** on SPORT is genuinely useful for drug-tested athletes.
+5. **Real, verifiable certifications.** USDA Organic, Non-GMO Project, Kosher, vegan, gluten-free; **NSF Certified for Sport** and **Informed Choice** on the SPORT line are genuinely useful for drug-tested athletes.
 6. **Vegan and dairy-free.** A legitimate option for people who cannot or will not use whey.
 7. **The 2016 pathogen problem appears fixed.** No repeat Class I pathogen recall in the decade since; 2024 inspection NAI.
 

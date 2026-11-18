@@ -71,7 +71,7 @@ To be fair to the product, several claims hold up:
 - The protein content is accurate.
 - The amino acid profile is genuinely complete and better than single-source rice or hemp.
 - The products are low in sugar and, for Meal and Fit, high in fiber.
-- The certifications are real and independently verifiable (USDA, Non-GMO, NSF, Informed Choice, Kosher, vegan, gluten-free).
+- The certifications are real and independently verifiable (USDA, Non-GMO, NSF, Kosher, vegan, gluten-free; Informed Choice on the SPORT line).
 - NSF Certified for Sport on the SPORT line is a meaningful, non-trivial certification for athletes.
 - There are no artificial colors, artificial sweeteners, or controversial emulsifiers like polysorbate 80 or carrageenan.
 - The 2016 pathogen problem was fixed at the supplier level and there has been no repeat.
