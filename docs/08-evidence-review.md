@@ -1,4 +1,4 @@
-# 08 — Scientific evidence review: the claims, tested
+# 08. Scientific evidence review: the claims, tested
 
 Each claim is quoted or paraphrased from Garden of Life's current product pages, then assessed against human evidence. Status labels: **Supported**, **Partly supported**, **Unsupported**, **Misleading**, **Uncertain**.
 
@@ -37,19 +37,19 @@ The evidence base for protein supplements is large and consistent:
 
 ## 8.3 The "weight loss" formula in Raw Organic Fit
 
-**Green coffee bean extract (Svetol).** The proposed mechanism is chlorogenic acid inhibiting glucose absorption and modulating fat metabolism. Trials are small (typically 30–50 participants, 8–12 weeks), effects are modest (a few kilograms at most), and later trials and reviews are inconsistent. The product supplies Svetol as part of a **700 mg blend with ashwagandha**, which is not the same as the 400–800 mg extract doses used in trials — the actual Svetol dose is unknown.
+**Green coffee bean extract (Svetol).** The proposed mechanism is chlorogenic acid inhibiting glucose absorption and modulating fat metabolism. Trials are small (typically 30–50 participants, 8–12 weeks), effects are modest (a few kilograms at most), and later trials and reviews are inconsistent. The product supplies Svetol as part of a **700 mg blend with ashwagandha**, which is not the same as the 400–800 mg extract doses used in trials, the actual Svetol dose is unknown.
 
 **Ashwagandha.** Reasonable evidence for stress, anxiety and sleep at 300–600 mg/day; some small trials report fat loss and strength gains, but the literature is short-term and heterogeneous. Rare hepatotoxicity is documented.
 
 **Chromium.** Decades of trials, mostly null or trivially small effects on weight and body composition. The 35–120 µg in Fit is below the 200–1,000 µg doses studied.
 
-**Fiber and protein.** 28 g protein and 9 g fiber per 170 kcal will increase satiety in most people. That is a real effect — but it is a property of protein and fiber, not of Svetol, ashwagandha or chromium.
+**Fiber and protein.** 28 g protein and 9 g fiber per 170 kcal will increase satiety in most people. That is a real effect, but it is a property of protein and fiber, not of Svetol, ashwagandha or chromium.
 
 **Verdict:** the "weight loss" positioning is not supported by the ingredients at the doses provided. If Fit helps someone lose weight, it is because it is a filling, high-protein, high-fiber 170 kcal meal component, and because it may displace a worse snack.
 
 ## 8.4 Does organic food improve health?
 
-There are **no RCTs** of organic food consumption and hard clinical outcomes, and none of this product. Observational cohorts (notably the French NutriNet-Santé study) report associations between higher organic food intake and lower risk of some cancers and metabolic outcomes, but these are heavily confounded by income, education, smoking, diet quality and lifestyle. The consistent, replicated finding is **lower pesticide residue exposure** in people who eat organic — a real benefit whose clinical significance is debated.
+There are **no RCTs** of organic food consumption and hard clinical outcomes, and none of this product. Observational cohorts (notably the French NutriNet-Santé study) report associations between higher organic food intake and lower risk of some cancers and metabolic outcomes, but these are heavily confounded by income, education, smoking, diet quality and lifestyle. The consistent, replicated finding is **lower pesticide residue exposure** in people who eat organic, a real benefit whose clinical significance is debated.
 
 **For this product specifically:** organic certification does not improve protein quality, does not reduce heavy metals (it is associated with higher levels), and does not make the additives healthier. The health case for choosing it rests on pesticide avoidance and environmental/animal-welfare preferences, not on personal health outcomes.
 

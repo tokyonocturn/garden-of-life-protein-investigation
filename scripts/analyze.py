@@ -217,7 +217,7 @@ def contaminant_tables() -> None:
     for t in thresholds:
         if t["metal"] == "lead":
             lines.append(
-                f"- {t['value_ug_per_day']} ug/day — {t['authority']} ({t['benchmark']})"
+                f"- {t['value_ug_per_day']} ug/day, {t['authority']} ({t['benchmark']})"
             )
     lines += [
         "",

@@ -1,13 +1,13 @@
-# 01 — Methodology
+# 01. Methodology
 
 ## 1. Question
 
 Not "is this product good?" but four separable questions, because they have different answers:
 
-1. **Composition** — what is in it, in what amount, per labeled serving?
-2. **Safety** — what contaminants are present, at what level, against which benchmark?
-3. **Efficacy** — does the protein (and the added actives) do what is claimed, in humans?
-4. **Value** — what does a gram of delivered protein cost, and what else could that money buy?
+1. **Composition**, what is in it, in what amount, per labeled serving?
+2. **Safety**, what contaminants are present, at what level, against which benchmark?
+3. **Efficacy**, does the protein (and the added actives) do what is claimed, in humans?
+4. **Value**, what does a gram of delivered protein cost, and what else could that money buy?
 
 The investigation was designed to falsify the marketing rather than confirm it. The prior was: *organic certification says nothing about heavy-metal content, and plant protein concentrates tend to carry more cadmium and lead than whey.* Everything below tests that prior.
 
@@ -22,7 +22,7 @@ The investigation was designed to falsify the marketing rather than confirm it. 
 | 5 | Retailer listings, review sites, blogs, press coverage | Used only to locate primary data or to establish price |
 | 6 | Brand marketing, influencer content | Recorded as claims to be tested |
 
-A manufacturer's statement that a product "is tested for heavy metals" is Tier 4. It is not evidence of a low result, and this report does not treat it as such. The distinction matters here because Garden of Life's public position — "all products are tested for heavy metals and the levels are below any established food safety thresholds" — is literally compatible with a result 5.6× above Consumer Reports' level of concern, since no federal threshold exists for lead in protein powder.
+A manufacturer's statement that a product "is tested for heavy metals" is Tier 4. It is not evidence of a low result, and this report does not treat it as such. The distinction matters here because Garden of Life's public position, "all products are tested for heavy metals and the levels are below any established food safety thresholds", is literally compatible with a result 5.6× above Consumer Reports' level of concern, since no federal threshold exists for lead in protein powder.
 
 ## 3. Product selection
 
@@ -62,18 +62,18 @@ Benchmarks for comparison are taken from published values: whey isolate PDCAAS 1
 | Benchmark | Lead | Cadmium | Inorganic arsenic | Mercury | Status |
 |---|---|---|---|---|---|
 | California Prop 65 MADL (oral, reproductive) | 0.5 µg/day | 4.1 µg/day | 10 µg/day | none set | Requires a warning above this; not a ban |
-| Consumer Reports "level of concern" (2025) | 0.5 µg/day | 4.1 µg/day | 10 µg/day | — | CR's own risk assessment, derived from Prop 65 numbers but not a Prop 65 conclusion |
-| FDA interim reference level | 2.2 µg/day (children), 8.8 µg/day (women 16–49) | — | — | — | Benchmark, not a regulation; no general adult value |
+| Consumer Reports "level of concern" (2025) | 0.5 µg/day | 4.1 µg/day | 10 µg/day | n/a | CR's own risk assessment, derived from Prop 65 numbers but not a Prop 65 conclusion |
+| FDA interim reference level | 2.2 µg/day (children), 8.8 µg/day (women 16–49) | n/a | n/a | n/a | Benchmark, not a regulation; no general adult value |
 | USP permissible daily exposure (supplements) | 10 µg/day | 5 µg/day | 15 µg/day | 15 µg/day | Voluntary compendial standard |
-| NSF certified supplement limit (as reported by CR) | ~10 µg/day | ~4.1 µg/day | — | — | Certification pass line |
+| NSF certified supplement limit (as reported by CR) | ~10 µg/day | ~4.1 µg/day | n/a | n/a | Certification pass line |
 
-The spread between 0.5 and 10 µg/day is a factor of 20. **Any claim that a product is "safe" or "unsafe" on heavy metals is therefore a claim about which benchmark is being used.** This report reports the number, the concentration, the benchmark, and the ratio — and refuses to collapse them into a single word.
+The spread between 0.5 and 10 µg/day is a factor of 20. **Any claim that a product is "safe" or "unsafe" on heavy metals is therefore a claim about which benchmark is being used.** This report reports the number, the concentration, the benchmark, and the ratio, and refuses to collapse them into a single word.
 
 ### 6.2 Units and arithmetic
 
 - Laboratory results are commonly reported in **ppb (µg/kg)**. To convert to µg per serving: `ppb × serving_g / 1000`.
 - Example: 61.4 ppb lead × 45 g ÷ 1000 = **2.76 µg**.
-- Reverse: 2.76 µg ÷ 45 g × 1000 = **61.3 ppb** — matching CR's published 61 ppb, which is how the CR figure was cross-validated.
+- Reverse: 2.76 µg ÷ 45 g × 1000 = **61.3 ppb**, matching CR's published 61 ppb, which is how the CR figure was cross-validated.
 - "Servings per week before exceeding a daily benchmark" = `benchmark × 7 ÷ µg per serving`.
 
 ### 6.3 Study quality notes

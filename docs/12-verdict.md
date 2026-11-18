@@ -1,4 +1,4 @@
-# 12 — Verdict
+# 12. Verdict
 
 ## 12.1 The four questions, answered separately
 
@@ -12,7 +12,7 @@ It is a **nutritionally legitimate food** and a **poor health tonic**. 20–30 g
 **Yes as protein. No for the specific claims that justify its price.** It delivers the protein it claims, with a complete amino acid profile. It does not "burn fat", does not demonstrably boost immunity, does not prove easier digestion via its enzymes, and its "raw" process is not a nutritional advantage.
 
 **Is it worth purchasing?**
-**Generally no — conditionally yes.** At $0.084–0.102 per gram of protein it costs 2–2.5× whey and 1.5–3× cheaper plant proteins, while testing worse for lead than several cheaper competitors. Buy it only if organic + vegan + no artificial sweeteners + high fiber is a combination you specifically need, or if you need NSF Certified for Sport and accept the lead result that comes with the SPORT line.
+**Generally no, conditionally yes.** At $0.084–0.102 per gram of protein it costs 2–2.5× whey and 1.5–3× cheaper plant proteins, while testing worse for lead than several cheaper competitors. Buy it only if organic + vegan + no artificial sweeteners + high fiber is a combination you specifically need, or if you need NSF Certified for Sport and accept the lead result that comes with the SPORT line.
 
 ## 12.2 Score
 
@@ -40,7 +40,7 @@ A "C" is not a condemnation. It means: **average product, above-average marketin
 ## 12.4 Disadvantages (what is not)
 
 1. **Lead in every independent test.** 2.76 µg/serving in SPORT (564% of CR's level), 1.59 µg in Creamy Oatmilk (318%), brand-level 1.8 stars in CLP 2018, Labdoor metal fail on Meal.
-2. **Cadmium in the chocolate/oatmilk line.** 6.55 µg/serving, 160% of Prop 65's oral MADL — the highest cadmium figure in Mamavation's set.
+2. **Cadmium in the chocolate/oatmilk line.** 6.55 µg/serving, 160% of Prop 65's oral MADL, the highest cadmium figure in Mamavation's set.
 3. **Organic does not help.** Organic plant powders average ~3× the lead and ~2× the cadmium of non-organic; the brand's own whey tested non-detect.
 4. **Price.** $0.084–0.102/g protein; ~$745/year at one flagship serving a day; ~2.3× whey.
 5. **Mid-tier protein quality, unpublished.** Estimated PDCAAS 0.82–0.88 for the flagship; no PDCAAS/DIAAS anywhere.
@@ -67,21 +67,21 @@ A "C" is not a condemnation. It means: **average product, above-average marketin
 
 - **Vegans/vegetarians** who want an organic, no-artificial-sweetener protein and accept the metal exposure.
 - **People who need NSF Certified for Sport** and are willing to limit SPORT to occasional use rather than daily (or who accept the trade-off).
-- **People who want a high-fiber, low-sugar meal replacement** and tolerate fermentable fiber — Raw Organic Meal is the value pick.
+- **People who want a high-fiber, low-sugar meal replacement** and tolerate fermentable fiber, Raw Organic Meal is the value pick.
 - **People who have tried it and tolerate it**, use it intermittently, and are not optimizing for lowest lead.
 - **People with a sesame allergy who choose SPORT or the Creamy line** (check current labels; formulations change).
 
 ## 12.7 Who should not use it
 
-- **Children and adolescents** — no safe lead threshold; the label itself says not intended for children; one SPORT serving exceeds the FDA's children's daily lead benchmark.
-- **Pregnancy and breastfeeding** — Prop 65's 0.5 µg/day is specifically a reproductive-toxicity level; ashwagandha in Fit is not established safe in pregnancy.
-- **Chronic kidney disease** — higher protein loads are contraindicated without dietitian supervision.
-- **Sesame allergy** — avoid Raw Organic Protein.
-- **Coconut allergy** — avoid the Creamy Oatmilk line.
-- **IBS/SIBO** — Meal and Fit's 7–9 g fermentable fiber is likely to cause symptoms; the Creamy line's inulin may too.
-- **Anyone whose main goal is lowest contaminant exposure** — whey or a low-lead plant protein with published data is better.
-- **Budget-constrained buyers** — the premium is not justified by the protein.
-- **Anyone who needs published lot testing** — Garden of Life does not provide it.
+- **Children and adolescents**, no safe lead threshold; the label itself says not intended for children; one SPORT serving exceeds the FDA's children's daily lead benchmark.
+- **Pregnancy and breastfeeding**, Prop 65's 0.5 µg/day is specifically a reproductive-toxicity level; ashwagandha in Fit is not established safe in pregnancy.
+- **Chronic kidney disease**, higher protein loads are contraindicated without dietitian supervision.
+- **Sesame allergy**, avoid Raw Organic Protein.
+- **Coconut allergy**, avoid the Creamy Oatmilk line.
+- **IBS/SIBO**, Meal and Fit's 7–9 g fermentable fiber is likely to cause symptoms; the Creamy line's inulin may too.
+- **Anyone whose main goal is lowest contaminant exposure**, whey or a low-lead plant protein with published data is better.
+- **Budget-constrained buyers**, the premium is not justified by the protein.
+- **Anyone who needs published lot testing**, Garden of Life does not provide it.
 
 ## 12.8 If you want the category, not the brand
 
@@ -98,8 +98,8 @@ A "C" is not a condemnation. It means: **average product, above-average marketin
 
 **Garden of Life Organic Protein Powder is a real protein product wrapped in a wellness story it cannot support.**
 
-The protein is real, complete, and accurately labeled. The certifications are real. The sugar and fiber numbers are real. But the "clean" premise is false in the one dimension that matters most for a daily supplement — heavy metals — and the company has known this since a 2015 Prop 65 settlement, still does not publish lot results, and continues to market "raw", "burns fat" and "below any established safety threshold" claims that do not survive contact with the evidence.
+The protein is real, complete, and accurately labeled. The certifications are real. The sugar and fiber numbers are real. But the "clean" premise is false in the one dimension that matters most for a daily supplement, heavy metals, and the company has known this since a 2015 Prop 65 settlement, still does not publish lot results, and continues to market "raw", "burns fat" and "below any established safety threshold" claims that do not survive contact with the evidence.
 
-If you are choosing between this and a whey protein, whey wins on protein quality, contamination, and price. If you are choosing between this and another organic plant protein, several competitors have lower published lead at similar prices. If you are choosing it because it is the only organic vegan powder you like the taste of, that is a legitimate reason — but go in knowing you are paying a premium for flavor and certification, not for safety.
+If you are choosing between this and a whey protein, whey wins on protein quality, contamination, and price. If you are choosing between this and another organic plant protein, several competitors have lower published lead at similar prices. If you are choosing it because it is the only organic vegan powder you like the taste of, that is a legitimate reason, but go in knowing you are paying a premium for flavor and certification, not for safety.
 
 **Verdict: not worth purchasing for most people. Conditionally reasonable for a narrow group. Grade C (5.1/10).**

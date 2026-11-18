@@ -1,4 +1,4 @@
-# 07 — Sweeteners, additives, digestion, allergies and side effects
+# 07. Sweeteners, additives, digestion, allergies and side effects
 
 ## 7.1 What people actually report
 
@@ -10,7 +10,7 @@ Garden of Life's formulas contain several of these at once. This section separat
 
 **Dose:** undisclosed; likely 2–5 g per serving based on typical formulations. The label lists it inside the "flavor blend", not as a separate gram amount.
 
-**Gastrointestinal:** erythritol is the best-tolerated polyol because ~90% is absorbed unchanged and excreted in urine. The dose that causes osmotic diarrhoea in adults is around **0.66–0.80 g/kg body weight** — roughly 46–56 g for a 70 kg adult. A 2–5 g serving is nowhere near that. For most people, erythritol is not the cause of bloating.
+**Gastrointestinal:** erythritol is the best-tolerated polyol because ~90% is absorbed unchanged and excreted in urine. The dose that causes osmotic diarrhoea in adults is around **0.66–0.80 g/kg body weight**, roughly 46–56 g for a 70 kg adult. A 2–5 g serving is nowhere near that. For most people, erythritol is not the cause of bloating.
 
 **Cardiovascular:** the interesting and unresolved part.
 
@@ -18,7 +18,7 @@ Garden of Life's formulas contain several of these at once. This section separat
 - **Follow-up 2024 (*ATVB*)**: 30 g erythritol, but not glucose, acutely enhanced stimulus-dependent platelet aggregation and granule release in 10 healthy volunteers.
 - **EFSA 2023 re-evaluation**: concluded the evidence **does not demonstrate a causal relationship** between erythritol as a food additive and cardiovascular risk; identified diarrhoea as the most sensitive endpoint; called for further studies.
 - **FDA 2024 memo**: reviewed the Witkowski paper and did not change erythritol's GRAS status.
-- **ARIC 2025 and other cohorts**: higher plasma erythritol associated with heart failure, cardiovascular death and CHD, but plasma erythritol is also produced endogenously and rises with metabolic dysfunction — reverse causation and residual confounding are plausible.
+- **ARIC 2025 and other cohorts**: higher plasma erythritol associated with heart failure, cardiovascular death and CHD, but plasma erythritol is also produced endogenously and rises with metabolic dysfunction, reverse causation and residual confounding are plausible.
 
 **What this means for a 3 g serving:** the intervention dose was **~10× higher** than a typical serving, and the epidemiology is about *plasma* levels that reflect both intake and endogenous production. The prudent reading is **uncertain and probably small**, not "erythritol causes heart attacks". People with high cardiovascular risk who drink multiple sweetened protein shakes daily are the group where the uncertainty matters most.
 
@@ -28,7 +28,7 @@ Garden of Life's formulas contain several of these at once. This section separat
 
 **Dose:** undisclosed; steviol glycoside content not stated.
 
-**Safety:** JECFA set an ADI of **0–4 mg/kg body weight/day** (as steviol equivalents); the FDA has accepted purified steviol glycosides as GRAS. At a 70 kg adult ADI, that is 280 mg steviol equivalents/day — far above the amount in a serving of protein powder.
+**Safety:** JECFA set an ADI of **0–4 mg/kg body weight/day** (as steviol equivalents); the FDA has accepted purified steviol glycosides as GRAS. At a 70 kg adult ADI, that is 280 mg steviol equivalents/day, far above the amount in a serving of protein powder.
 
 **Gastrointestinal:** generally none. Some people report a bitter or licorice aftertaste, especially with whole-leaf extracts. Stevia is not a FODMAP and does not feed gut bacteria.
 
@@ -61,7 +61,7 @@ Garden of Life's formulas contain several of these at once. This section separat
 | **Milk, egg, wheat, fish, other tree nuts** | None as ingredients | Facility statement: "Manufactured in a facility that also processes egg, milk, soy, wheat, fish, tree nuts and sesame" |
 | **Gluten** | None as an ingredient | NSF Gluten-Free certified (<10 ppm); oatmilk powder raises a cross-contact question answered by that certification |
 
-**Practical advice:** sesame allergy — avoid Raw Organic Protein entirely; SPORT does not list sesame and is a better option, but check the current label. Coconut allergy — avoid the Creamy line. Soy allergy — the facility statement is a shared-equipment warning, not a "contains" claim; most soy-allergic people tolerate shared-line products, but the decision is individual.
+**Practical advice:** sesame allergy, avoid Raw Organic Protein entirely; SPORT does not list sesame and is a better option, but check the current label. Coconut allergy, avoid the Creamy line. Soy allergy, the facility statement is a shared-equipment warning, not a "contains" claim; most soy-allergic people tolerate shared-line products, but the decision is individual.
 
 ## 7.6 Nickel and legume sensitivity
 
@@ -96,7 +96,7 @@ For a healthy adult without allergies:
 - **Less likely:** loose stools from the fiber load; bitter aftertaste from stevia; chalky texture.
 - **Uncommon:** erythritol-related GI symptoms at high intakes; nickel-related eczema in nickel-sensitive people.
 - **Rare but serious:** allergic reaction in sesame or coconut allergy; probiotic bacteraemia in severely immunocompromised people (theoretical, not reported for DE111).
-- **Chronic:** cumulative lead and cadmium exposure — the one risk that does not announce itself.
+- **Chronic:** cumulative lead and cadmium exposure, the one risk that does not announce itself.
 
 ## 7.10 The "easily digested" claim, audited
 

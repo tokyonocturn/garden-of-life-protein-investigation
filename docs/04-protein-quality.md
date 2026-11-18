@@ -1,4 +1,4 @@
-# 04 — Protein quality, amino acids, digestibility and bioavailability
+# 04. Protein quality, amino acids, digestibility and bioavailability
 
 ## 4.1 The claim being tested
 
@@ -24,7 +24,7 @@ Full ratios and the arithmetic: [`docs/generated/amino-acid-scores.md`](generate
 
 **Reading this honestly:**
 
-- The flagship is **not** a 1.0 protein. Its sulfur amino acids sit at 91% of the adult pattern. That is normal for a pea-dominant blend, and it is still a good plant protein — but "complete" means "contains all nine", not "scores 1.0".
+- The flagship is **not** a 1.0 protein. Its sulfur amino acids sit at 91% of the adult pattern. That is normal for a pea-dominant blend, and it is still a good plant protein, but "complete" means "contains all nine", not "scores 1.0".
 - The PDCAAS/DIAAS numbers are **estimates from a label**, not measurements. Garden of Life has published no PDCAAS, DIAAS, PER or nitrogen-balance study for any of these products. That absence is itself a finding: a company that markets "complete protein" heavily does not provide the standard metric for protein quality.
 - The three labeled profiles are **mutually inconsistent**. Raw Organic Protein lists methionine at 240 mg (1.1% of protein) and cysteine at 200 mg; Protein & Greens lists 396 mg and 312 mg (3.5% combined) for a blend with the same pea/rice base. Either the formulations differ materially or the "typical" profiles are not tightly controlled. Either way, a labeled profile is not a batch certificate.
 
@@ -39,7 +39,7 @@ Full ratios and the arithmetic: [`docs/generated/amino-acid-scores.md`](generate
 | **Raw Organic Protein (est.)** | **0.82–0.88** | **0.77–0.84** | **Met+Cys** |
 | Rice protein concentrate | 0.42 | 0.37 | Lys |
 
-Sources: Herreman et al. 2020 (DIAAS compilation); Frontiers in Nutrition 2022 summary table; FAO 2013 scoring pattern. Pea isolate DIAAS 1.00 was measured in a 2022 human ileal digestibility trial — the spread between 0.82 and 1.00 for "pea protein" shows how much method and processing matter.
+Sources: Herreman et al. 2020 (DIAAS compilation); Frontiers in Nutrition 2022 summary table; FAO 2013 scoring pattern. Pea isolate DIAAS 1.00 was measured in a 2022 human ileal digestibility trial, the spread between 0.82 and 1.00 for "pea protein" shows how much method and processing matter.
 
 **Practical translation:** 22 g of Raw Organic Protein delivers roughly the anabolic equivalent of 18–19 g of whey isolate, not 22 g. For most people eating enough total protein, that difference is irrelevant. For a vegan athlete at 1.6 g/kg/day, it is absorbed by eating ~10% more.
 
@@ -59,7 +59,7 @@ The threshold often cited for a maximal MPS response in young adults is ~2–3 g
 
 **What the science says:**
 
-- Protein **denaturation is not a loss of nutritional value** — it is the first step of digestion. Heating unfolds proteins, exposes peptide bonds, and generally **increases** digestibility by inactivating protease inhibitors (trypsin inhibitor in legumes, for example).
+- Protein **denaturation is not a loss of nutritional value**, it is the first step of digestion. Heating unfolds proteins, exposes peptide bonds, and generally **increases** digestibility by inactivating protease inhibitors (trypsin inhibitor in legumes, for example).
 - Cooking legumes and grains reliably improves protein digestibility-corrected scores. Raw legume flour typically has *lower* digestibility than cooked.
 - The claim that heat "reduces availability to your body" is the opposite of the general finding for plant proteins. It is true only in extreme cases (Maillard browning at high heat with reducing sugars, which can reduce lysine availability).
 - **Sprouting**, which Garden of Life does use, has a real and modest benefit: it reduces phytate, improves mineral bioavailability, and can increase free amino acids. That benefit does not depend on the product being "raw".

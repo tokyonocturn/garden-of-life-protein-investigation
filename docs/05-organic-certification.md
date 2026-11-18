@@ -1,4 +1,4 @@
-# 05 — What "organic" actually guarantees
+# 05. What "organic" actually guarantees
 
 ## 5.1 The legal definition
 
@@ -32,12 +32,12 @@ That single sentence disposes of most of the marketing inference. "Certified org
 Organic farming prohibits most synthetic pesticides, and residue testing consistently finds **lower** pesticide residues in organic food. But:
 
 - Some pesticides are permitted in organic production (e.g. copper compounds, spinosad, *Bacillus thuringiensis*, certain botanicals).
-- Drift and commingling occur. NOP's instruction on pesticide-residue testing sets a **0.01 ppm** trigger for investigating a prohibited residue — i.e. the standard anticipates detectable residues.
-- NC State Extension summarises the rule as prohibiting residues of prohibited substances **exceeding 5% of the EPA tolerance** — not any residue at all.
+- Drift and commingling occur. NOP's instruction on pesticide-residue testing sets a **0.01 ppm** trigger for investigating a prohibited residue, i.e. the standard anticipates detectable residues.
+- NC State Extension summarises the rule as prohibiting residues of prohibited substances **exceeding 5% of the EPA tolerance**, not any residue at all.
 
 Mamavation's 2024 test of 11 chocolate protein powders found **one USDA organic brand with detectable glyphosate (42 ppb)** and **two organic brands with other detectable pesticides**, out of 11 products. That is a small sample, but it demonstrates the principle: the seal is not a zero-residue certificate.
 
-**Garden of Life specifically:** its plant proteins are USDA Organic and Non-GMO Project Verified, and both certifications appear to be genuine and current. In Mamavation's test, the Garden of Life Creamy Oatmilk Chocolate Brownie had **no detectable glyphosate** but **did have propiconazole at 0.016 ppm** — a fungicide, in an organic product. Whether that reflects drift, a supplier issue, or a lab artifact is unknown, but it is the kind of result that the word "organic" leads consumers not to expect.
+**Garden of Life specifically:** its plant proteins are USDA Organic and Non-GMO Project Verified, and both certifications appear to be genuine and current. In Mamavation's test, the Garden of Life Creamy Oatmilk Chocolate Brownie had **no detectable glyphosate** but **did have propiconazole at 0.016 ppm**, a fungicide, in an organic product. Whether that reflects drift, a supplier issue, or a lab artifact is unknown, but it is the kind of result that the word "organic" leads consumers not to expect.
 
 ## 5.4 Heavy metals: organic can be worse
 
@@ -54,11 +54,11 @@ The mechanism is not a conspiracy. It is agronomy:
 
 1. **Plants take up metals from soil.** Cadmium and lead enter via roots; arsenic (as arsenate) enters rice via phosphate transporters; cocoa accumulates cadmium in the bean.
 2. **Protein isolation concentrates the seed's protein fraction**, and with it a share of the metals.
-3. **Organic systems use organic fertilizers** — manure, compost, rock phosphate — which can contain cadmium and other metals. Sewage sludge is banned, but rock phosphate is not.
+3. **Organic systems use organic fertilizers**, manure, compost, rock phosphate, which can contain cadmium and other metals. Sewage sludge is banned, but rock phosphate is not.
 4. **Rice is irrigated in flooded paddies**, which mobilise arsenic and increase its uptake.
 5. **Cocoa and dark chocolate** are well-documented cadmium sources; Consumer Reports has found lead and cadmium in dark chocolate for years.
 
-So "organic" and "plant-based" are, for heavy metals, **risk factors rather than protections**. The Clean Label Project's "Clean Sixteen" — the 16 products with the lowest contaminant levels — is dominated by **whey** products. Garden of Life's own **SPORT Grass-Fed Whey Vanilla** made that list, non-detect for all four metals, while its plant SKUs did not.
+So "organic" and "plant-based" are, for heavy metals, **risk factors rather than protections**. The Clean Label Project's "Clean Sixteen", the 16 products with the lowest contaminant levels, is dominated by **whey** products. Garden of Life's own **SPORT Grass-Fed Whey Vanilla** made that list, non-detect for all four metals, while its plant SKUs did not.
 
 ## 5.5 What the other seals mean
 
@@ -89,12 +89,12 @@ The same logic applies to Garden of Life's public statement that "all products a
 **No, for the things this product is marketed on:**
 
 - It does not make the protein higher quality.
-- It does not make the product low in heavy metals — statistically it makes it *more* likely to be high.
+- It does not make the product low in heavy metals, statistically it makes it *more* likely to be high.
 - It does not make "natural flavors", erythritol or gums healthier.
 - It does not validate "raw", "easily digested", "burns fat", or "supports immune health".
 
 ## 5.7 The bottom line on certification
 
-Organic certification is a **real, audited, legally enforceable claim about farming practice**. It is not a safety certification, and it is not a nutrition certification. For a plant protein powder, the organic label is compatible with — and statistically associated with — higher lead and cadmium than conventional whey.
+Organic certification is a **real, audited, legally enforceable claim about farming practice**. It is not a safety certification, and it is not a nutrition certification. For a plant protein powder, the organic label is compatible with, and statistically associated with, higher lead and cadmium than conventional whey.
 
 If your reason for buying this product is "organic therefore clean", the premise is false. If your reason is "I want to avoid synthetic pesticides and GMOs, and I accept plant-protein metal exposure", the premise is sound, and the organic seal does real work.

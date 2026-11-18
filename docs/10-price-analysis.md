@@ -1,4 +1,4 @@
-# 10 — Price per serving and per gram of protein
+# 10. Price per serving and per gram of protein
 
 ## 10.1 Method
 
@@ -22,7 +22,7 @@ Full generated table: [`docs/generated/price-table.md`](generated/price-table.md
 | Raw Organic Fit Coffee (10-serving tub) | $4.16 | $0.1485 | $3.71 | $0.1262 |
 
 **Cheapest per gram:** Raw Organic Meal at **$0.053/g**.
-**Most expensive per gram:** Fit Coffee at **$0.149/g** — an artefact of a 10-serving tub sold at the 20-serving price.
+**Most expensive per gram:** Fit Coffee at **$0.149/g**, an artefact of a 10-serving tub sold at the 20-serving price.
 
 ## 10.3 What a year costs
 
@@ -67,7 +67,7 @@ Garden of Life sits in the **middle-to-upper** part of the premium plant protein
 | Fiber (5–9 g) | Yes, if you want satiety and don't have IBS |
 | No artificial sweeteners/colors | Yes, for people who avoid them |
 | "Raw" | No demonstrated benefit |
-| Heavy-metal testing | **You cannot verify it** — no numbers published |
+| Heavy-metal testing | **You cannot verify it**, no numbers published |
 
 ## 10.6 Cost per gram of *delivered, usable* protein
 
@@ -75,7 +75,7 @@ The label says 22 g; the amino acid score says the protein is ~91% as good as th
 
 `22 g × 0.91 × 0.93 ≈ 18.6 g`
 
-That makes the effective cost **$2.04 ÷ 18.6 = $0.110/g** of usable protein — about **2.7×** the cost of whey on the same basis (whey: 24 g × 1.00 × 0.95 ≈ 22.8 g; $0.95 ÷ 22.8 = $0.042/g).
+That makes the effective cost **$2.04 ÷ 18.6 = $0.110/g** of usable protein, about **2.7×** the cost of whey on the same basis (whey: 24 g × 1.00 × 0.95 ≈ 22.8 g; $0.95 ÷ 22.8 = $0.042/g).
 
 This is an estimate, not a measurement, but it captures something the label does not: **you are paying a premium for a protein that is slightly less usable per gram.** The gap is not large enough to matter nutritionally for most people; it is large enough to matter economically.
 
@@ -90,7 +90,7 @@ This is an estimate, not a measurement, but it captures something the label does
 ## 10.8 Price volatility and pack-size traps
 
 - **Fit Coffee** is the clearest trap: 465 g / 10 servings at $41.59, versus 922 g / 20 servings at the same price for Fit Chocolate. Check the net weight, not the shelf position.
-- **Raw Organic Protein** has been re-scooped from 29 g to 33–35 g. A tub that once delivered 22 servings now delivers 20 at the same price — a hidden ~10% price increase.
+- **Raw Organic Protein** has been re-scooped from 29 g to 33–35 g. A tub that once delivered 22 servings now delivers 20 at the same price, a hidden ~10% price increase.
 - **Subscription pricing** (15% off, then 20% after the fourth order) is the cheapest legitimate route, but it locks you into recurring purchases of a product with a contested contaminant profile.
 - **Retail vs direct:** Amazon and Vitamin Shoppe frequently undercut Garden of Life's list price by 15–30%. The $/g figures here are list prices and therefore **overstate** what a careful shopper pays; the ranking between products is unaffected.
 

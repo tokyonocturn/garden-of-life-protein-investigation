@@ -1,4 +1,4 @@
-# 09 — Manufacturing, regulation, recalls, lawsuits and corporate ownership
+# 09. Manufacturing, regulation, recalls, lawsuits and corporate ownership
 
 ## 9.1 Who makes it
 
@@ -13,7 +13,7 @@ Manufacturing: Atrium had seven factories in the US, Canada, Europe and Argentin
 Dietary supplements in the US are regulated as a **category of food**, not as drugs:
 
 - **DSHEA (1994)** created the framework: no pre-market approval, no requirement to prove efficacy, and structure/function claims are allowed without FDA review provided the label carries the disclaimer "These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease."
-- **21 CFR 111 (cGMP)** requires identity, purity, strength and composition, and requires manufacturers to establish specifications — including contaminant limits — for each component and finished product. It does **not** prescribe numeric heavy-metal limits for protein powder.
+- **21 CFR 111 (cGMP)** requires identity, purity, strength and composition, and requires manufacturers to establish specifications, including contaminant limits, for each component and finished product. It does **not** prescribe numeric heavy-metal limits for protein powder.
 - **Adverse event reporting** is mandatory (21 CFR 111.240), but there is no public database of protein-powder AERs comparable to drugs.
 - **Recalls** are generally voluntary; the FDA classifies them (Class I = reasonable probability of serious adverse health consequences or death; Class II = may cause temporary or medically reversible harm; Class III = unlikely to cause harm).
 
@@ -28,7 +28,7 @@ The practical consequence: **Garden of Life's "tested for heavy metals" claim is
 | **Oct 2023** | RM-10 and RM-10 ULTRA mushroom capsules, FYI ULTRA joint formula | **Class II** | Undeclared soy | Three products |
 | **2024** | Facility inspection | NAI | No action indicated | Routine |
 
-The 2016 outbreak is the most instructive. It was not a heavy-metal problem or a labeling problem; it was a **supplier qualification failure** on a botanical ingredient (moringa) in a product marketed as a raw, whole-food meal replacement. The company recalled, traced the source, changed suppliers and renamed the line. That is a functioning recall system — after the failure.
+The 2016 outbreak is the most instructive. It was not a heavy-metal problem or a labeling problem; it was a **supplier qualification failure** on a botanical ingredient (moringa) in a product marketed as a raw, whole-food meal replacement. The company recalled, traced the source, changed suppliers and renamed the line. That is a functioning recall system, after the failure.
 
 ## 9.4 Proposition 65: the 2015 settlement
 
@@ -54,7 +54,7 @@ This is the single most important legal fact in the report. It means:
 
 1. Garden of Life has had **actual notice** of lead and cadmium exceedances in its protein line since at least 2014–2015.
 2. The company committed to **reduce** the metals, not merely to label them.
-3. Ten years later, Consumer Reports still measured **2.76 µg lead per serving** in SPORT — 5.6× the Prop 65 MADL. Whatever reduction occurred was not enough to clear the strictest benchmark.
+3. Ten years later, Consumer Reports still measured **2.76 µg lead per serving** in SPORT, 5.6× the Prop 65 MADL. Whatever reduction occurred was not enough to clear the strictest benchmark.
 
 ## 9.5 The 2025–2026 lead class action
 
@@ -102,16 +102,16 @@ A dismissal with prejudice is a merits/pleading outcome, not a finding that the 
 **It does not prove:**
 
 - That any particular tub is unsafe.
-- That the company is uniquely bad — most plant protein brands have similar or worse data.
+- That the company is uniquely bad, most plant protein brands have similar or worse data.
 - That the 2026 dismissal vindicates the product's safety claims.
-- That the 2016 pathogen problem persists — the evidence says it was fixed.
+- That the 2016 pathogen problem persists, the evidence says it was fixed.
 
 ## 9.9 The Nestlé question
 
 Does Nestlé ownership matter? Practically:
 
 - **Resources**: a large parent can afford better supplier qualification and testing. The certifications suggest some of that is real.
-- **Incentives**: a large parent also has reputational and legal exposure, which argues for caution in claims — yet the "burns fat" and "heavy metals below thresholds" language persists.
+- **Incentives**: a large parent also has reputational and legal exposure, which argues for caution in claims, yet the "burns fat" and "heavy metals below thresholds" language persists.
 - **Brand positioning**: Garden of Life still markets as an independent, mission-driven organic brand. The "we're a small company that cares" framing is not accurate and has not been for eight years.
 - **Competitor ownership**: Orgain, the closest organic competitor, is also majority-owned by Nestlé Health Science. The "independent organic vs corporate" comparison is largely illusory.
 

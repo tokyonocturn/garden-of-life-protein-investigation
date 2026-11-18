@@ -80,11 +80,11 @@ def main() -> int:
 
     print(f"\n{len(ok)}/{len(urls)} returned 200")
     if blocked:
-        print(f"\n{len(blocked)} bot-blocked (401/403/429) — page may still be live:")
+        print(f"\n{len(blocked)} bot-blocked (401/403/429), page may still be live:")
         for url, status, detail in blocked:
             print(f"  {status} {url} ({detail})")
     if broken:
-        print(f"\n{len(broken)} other non-200 results — verify before citing:")
+        print(f"\n{len(broken)} other non-200 results, verify before citing:")
         for url, status, detail in broken:
             print(f"  {status} {url} ({detail})")
     return 0

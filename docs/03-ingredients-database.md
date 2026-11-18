@@ -1,4 +1,4 @@
-# 03 — Ingredient database
+# 03. Ingredient database
 
 Every ingredient that appears in a Garden of Life organic plant protein, what it does, what the evidence says, and what to watch for. Amounts are only disclosed where the label discloses them; "blend" ingredients are listed in descending order by weight but without grams.
 
@@ -20,9 +20,9 @@ Every ingredient that appears in a Garden of Life organic plant protein, what it
 
 | Ingredient | Where | Function | Dose in product | Evidence and caveats |
 |---|---|---|---|---|
-| **Organic erythritol** | Raw Organic Protein (vanilla, chocolate, chai), Creamy Oatmilk | Bulk sweetener, masks pea/rice bitterness | Not disclosed; typically 2–5 g per serving in this category | A 30 g oral dose acutely increased platelet aggregation and thromboxane markers in healthy volunteers (n=10). Observational cohorts associate higher plasma erythritol with MACE (HR 1.8–2.2 highest vs lowest quartile). EFSA's 2023 re-evaluation found **no demonstrated causal link** and identified diarrhoea as the most sensitive endpoint. A typical 2–3 g serving is ~10× below the intervention dose, so the practical risk is uncertain and probably small — but it is not zero and it is not "natural therefore inert" |
+| **Organic erythritol** | Raw Organic Protein (vanilla, chocolate, chai), Creamy Oatmilk | Bulk sweetener, masks pea/rice bitterness | Not disclosed; typically 2–5 g per serving in this category | A 30 g oral dose acutely increased platelet aggregation and thromboxane markers in healthy volunteers (n=10). Observational cohorts associate higher plasma erythritol with MACE (HR 1.8–2.2 highest vs lowest quartile). EFSA's 2023 re-evaluation found **no demonstrated causal link** and identified diarrhoea as the most sensitive endpoint. A typical 2–3 g serving is ~10× below the intervention dose, so the practical risk is uncertain and probably small, but it is not zero and it is not "natural therefore inert" |
 | **Organic stevia leaf extract** | Nearly every flavored SKU | High-intensity sweetener | Not disclosed | JECFA ADI 0–4 mg/kg body weight/day (as steviol equivalents); FDA GRAS for purified steviol glycosides. No established safety signal at food doses. Whole-leaf extract is not the same as purified Reb A; the label does not state glycoside content |
-| **Organic monk fruit** | Not used in these SKUs (used by competitors) | — | — | — |
+| **Organic monk fruit** | Not used in these SKUs (used by competitors) | n/a | n/a | n/a |
 
 **"0 g sugar" is accurate but incomplete.** The sugar alcohols and steviol glycosides are not sugars, so the claim is legal. It says nothing about the total sweetener load, which is undisclosed.
 
@@ -45,7 +45,7 @@ Every ingredient that appears in a Garden of Life organic plant protein, what it
 | Ingredient | What it actually is | Notes |
 |---|---|---|
 | **"Organic vanilla flavors with other natural flavors"** | A proprietary flavor compound, legally permitted to be called natural if derived from plant/animal sources | "Natural" is a labeling category, not a safety or purity claim. The components are undisclosed; some consumers react to specific flavor chemicals |
-| **Organic cocoa / cacao** | Flavor, polyphenols | Cocoa is a **cadmium accumulator** — the reason chocolate-flavored powders test higher for cadmium than vanilla in Clean Label Project's data |
+| **Organic cocoa / cacao** | Flavor, polyphenols | Cocoa is a **cadmium accumulator**, the reason chocolate-flavored powders test higher for cadmium than vanilla in Clean Label Project's data |
 | **Organic carob** | Flavor, sweetness | Legume; low risk |
 | **Organic cinnamon, chai flavors** | Flavor | Cinnamon contains coumarin; at flavor doses this is negligible |
 | **Sea salt** | Flavor, sodium | 150–460 mg sodium per serving depending on line |
@@ -74,9 +74,9 @@ Every ingredient that appears in a Garden of Life organic plant protein, what it
 
 ## 3.7 Ingredients that are absent (and the claims about them)
 
-- **No artificial colors, flavors or sweeteners** — true; the label uses only organic/natural flavor and stevia/erythritol.
-- **No soy ingredients** — true as an ingredient; the Creamy Oatmilk label nonetheless says "may contain traces of soy due to agricultural practices", and the facility handles soy.
-- **No dairy** — true as an ingredient; facility handles milk.
-- **No gluten** — certified NSF gluten-free at <10 ppm (not the FDA <20 ppm gluten-free claim). Oats are not an ingredient, but oatmilk powder in the Creamy line raises a cross-contact question the certification is designed to answer.
-- **"No fillers or carriers"** — broadly true in the sense that there is no maltodextrin or silicone dioxide; but erythritol, gums, inulin and "natural flavors" are functional additives by any ordinary definition. The claim is a definitional trick, not a lie.
-- **"Raw"** — no ingredient is heated above 115 °F according to the brand. See [04](04-protein-quality.md) for why this is not a nutritional advantage.
+- **No artificial colors, flavors or sweeteners**, true; the label uses only organic/natural flavor and stevia/erythritol.
+- **No soy ingredients**, true as an ingredient; the Creamy Oatmilk label nonetheless says "may contain traces of soy due to agricultural practices", and the facility handles soy.
+- **No dairy**, true as an ingredient; facility handles milk.
+- **No gluten**, certified NSF gluten-free at <10 ppm (not the FDA <20 ppm gluten-free claim). Oats are not an ingredient, but oatmilk powder in the Creamy line raises a cross-contact question the certification is designed to answer.
+- **"No fillers or carriers"**, broadly true in the sense that there is no maltodextrin or silicone dioxide; but erythritol, gums, inulin and "natural flavors" are functional additives by any ordinary definition. The claim is a definitional trick, not a lie.
+- **"Raw"**, no ingredient is heated above 115 °F according to the brand. See [04](04-protein-quality.md) for why this is not a nutritional advantage.
