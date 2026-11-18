@@ -39,7 +39,7 @@ All URLs were accessed between 14 and 18 November 2026. Consumer Reports, Labdoo
 27. Consumer Reports — "Answering Your FAQs" (3 Nov 2025, updated 8 Jan 2026). https://www.consumerreports.org/health/food-safety/answering-faqs-high-lead-levels-in-protein-powders-shakes-a4805850762
 28. Consumer Reports Advocacy — press release and FDA petition (14 Oct 2025). https://advocacy.consumerreports.org/press_release/consumer-reports-investigation-finds-two-thirds-of-protein-powders-and-shakes-tested-contained-high-levels-of-lead-in-a-single-serving
 29. Consumer Reports — "Arsenic, Lead Found in Popular Protein Supplements" (28 Feb 2018). https://www.consumerreports.org/dietary-supplements/heavy-metals-in-protein-supplements
-30. Clean Label Project — Protein Powder Study 2.0 (Jan 2025, updated 2026). https://cleanlabelproject.org/protein-study-2/
+30. Clean Label Project — Protein Powder Study 2.0 (Jan 2025, updated 2026). https://cleanlabelproject.org/protein-study-2-0
 31. Clean Label Project — tested products and "Clean Sixteen". https://cleanlabelproject.org/protein-powder-v2-category-tested-products
 32. Clean Label Project — study white paper (PDF, Jan 2025). https://cleanlabelproject.org/wp-content/uploads/CleanLabelProject_ProteinStudyWhitepaper_010625.pdf
 33. Labdoor — Garden of Life Raw Organic Meal review (heavy-metal screen fail; score 73.7). https://labdoor.com/review/garden-of-life-raw-organic-meal
@@ -78,8 +78,8 @@ All URLs were accessed between 14 and 18 November 2026. Consumer Reports, Labdoo
 57. Hevia-Larraín V. et al. — "High-protein plant-based diet versus a protein-matched omnivorous diet to support resistance training adaptations", *Sports Medicine* 2021. https://link.springer.com/article/10.1007/s40279-021-01434-9
 58. "Similar effects between animal-based and plant-based protein blend… randomized clinical trial", *JISSN* 2025. https://www.tandfonline.com/doi/full/10.1080/15502783.2025.2568047
 59. "Effect of Plant Versus Animal Protein on Muscle Mass, Strength… systematic review and meta-analysis", *Nutrition Reviews* 2025. https://academic.oup.com/nutritionreviews/article/83/7/e1581/7954494
-60. "Effects of plant- versus animal-based proteins on muscle protein synthesis: systematic review with meta-analysis", *JAND* 2026. https://www.jandonline.org/article/S2212-2672(26)00080-8/fulltext
-61. "Muscle Protein Synthesis in Response to Plant-Based Protein Isolates With and Without Added Leucine Versus Whey", *Current Developments in Nutrition* 2024. https://cdn.nutrition.org/article/S2475-2991(24)01703-7/fulltext
+60. "Effects of plant- versus animal-based proteins on muscle protein synthesis: systematic review with meta-analysis", *JAND* 2026. https://www.jandonline.org/article/S2212-2672%2826%2900080-8/fulltext
+61. "Muscle Protein Synthesis in Response to Plant-Based Protein Isolates With and Without Added Leucine Versus Whey", *Current Developments in Nutrition* 2024. https://cdn.nutrition.org/article/S2475-2991%2824%2901703-7/fulltext
 62. Morton R. et al. — protein supplementation meta-analysis, *BJSM* 2018 (1.6 g/kg/day plateau). https://bjsm.bmj.com/content/52/6/376
 
 ## G. Peer-reviewed science: contaminants, sweeteners, digestion, kidney safety

@@ -11,7 +11,7 @@ Research cut-off: **18 November 2026**. All prices, labels and test results are 
 | Question | Short answer |
 |---|---|
 | Is it a real protein source? | **Yes.** 20–30 g of complete plant protein per serving, label claims verified by Consumer Reports' 2025 test (all products met or exceeded protein claims). |
-| Is it "clean"? | **Not reliably.** Independent labs have found lead in every Garden of Life plant line tested, at 1.4–5.6× Consumer Reports' 0.5 µg/day lead level of concern. |
+| Is it "clean"? | **Not reliably.** Independent labs have found lead in every Garden of Life plant line tested, at 3.2–5.5× Consumer Reports' 0.5 µg/day lead level of concern. |
 | Does organic make it safer? | **No.** Organic is a farming-process claim. Independent testing consistently finds *more* lead and cadmium in organic/plant protein than in whey. |
 | Is it good value? | **No.** $0.074–$0.102 per gram of protein versus roughly $0.03–0.05 for whey and cheaper plant isolates. |
 | Would I buy it? | **Only for a narrow use case** — see [the verdict](docs/12-verdict.md). Grade: **C (5.1/10)**. |
@@ -22,7 +22,7 @@ Research cut-off: **18 November 2026**. All prices, labels and test results are 
 2. **Other independent labs agree.** Clean Label Project's 2018 study ranked Garden of Life's five tested products **third-worst overall (1.8 stars)**, and its Raw Organic Meal Chocolate Cacao was one of the **five worst products in 134**. Labdoor's own testing of Raw Organic Meal records **"Heavy Metal Screenings: Fail"**. Mamavation's 2024 EPA-certified lab test of the Chocolate Brownie oatmilk powder found **6.55 µg cadmium and 1.59 µg lead per serving**, plus PFAS and 211 ppb total phthalates.
 3. **Garden of Life has known about this since at least 2014.** A California Proposition 65 action by As You Sow covering "RAW Organic Protein (all flavors and varieties)", RAW Fit, RAW Meal and Organic Plant Protein was **settled in 2015 with a $175,000 payment and injunctive relief requiring reduction of lead and cadmium or a cancer/reproductive-harm warning**. Lead is still detectable above Prop 65's MADL in 2025.
 4. **The nutrition is genuinely decent; the marketing is not.** Complete amino acid profile, 0 g sugar, 3–7 g fiber, no artificial colors or sweeteners, NSF Certified for Sport on the SPORT line. But "raw matters because heat can denature proteins" is **scientifically meaningless** — denaturation is what digestion does, and cooking usually *improves* protein digestibility. "Burns fat" and "helps you stay full longer" are unverified structure/function claims.
-5. **Protein quality is mid-tier, and Garden of Life publishes no PDCAAS or DIAAS.** From the label's own amino acid profile, the flagship Raw Organic Protein is **first-limited by methionine + cysteine at ~0.91 of the FAO 2013 adult pattern**, implying a PDCAAS of roughly **0.82–0.89** and a DIAAS of roughly **0.70–0.80** — below whey (1.0/1.09–1.18) and below pea isolate alone on DIAAS.
+5. **Protein quality is mid-tier, and Garden of Life publishes no PDCAAS or DIAAS.** From the label's own amino acid profile, the flagship Raw Organic Protein is **first-limited by methionine + cysteine at ~0.91 of the FAO 2013 adult pattern**, implying a PDCAAS of roughly **0.82–0.88** and a DIAAS of roughly **0.70–0.80** — below whey (1.0/1.09–1.18) and below pea isolate alone on DIAAS.
 
 ---
 
