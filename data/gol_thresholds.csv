@@ -1,0 +1,13 @@
+metal,benchmark,value_ug_per_day,authority,basis_or_note
+lead,Prop 65 MADL (reproductive toxicity),0.5,California OEHHA,"Triggers a warning label above this level; not a ban. Consumer Reports adopted the same number as its 'level of concern'."
+lead,FDA interim reference level - children,2.2,US FDA,"Benchmark for children's total daily lead exposure; not a limit for supplements."
+lead,FDA interim reference level - women 16-49,8.8,US FDA,"Benchmark for total daily exposure in women of childbearing age."
+lead,USP permissible daily exposure (supplements),10,USP,"Voluntary compendial standard derived from provisional tolerable weekly intake."
+lead,NSF certified supplement limit,10,NSF International,"Pass line for NSF-certified supplements, as reported by Consumer Reports."
+cadmium,Prop 65 MADL (oral),4.1,California OEHHA,"Oral maximum allowable dose level."
+cadmium,USP permissible daily exposure (supplements),5,USP,"Voluntary compendial standard."
+cadmium,NSF certified supplement limit,4.1,NSF International,"As reported by Consumer Reports."
+arsenic_inorganic,Prop 65 MADL (oral),10,California OEHHA,"Inorganic arsenic, oral."
+arsenic_inorganic,USP permissible daily exposure (supplements),15,USP,"Inorganic arsenic."
+mercury,USP permissible daily exposure (supplements),15,USP,"Total mercury."
+mercury,Prop 65,0,California OEHHA,"No Prop 65 MADL established for mercury."

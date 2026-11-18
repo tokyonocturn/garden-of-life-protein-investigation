@@ -1,0 +1,20 @@
+product_line,flavor,sku,serving_g,servings_per_container,calories_kcal,fat_g,carb_g,fiber_g,sugar_g,protein_g,sodium_mg,price_usd_us_list,price_date,panel_confidence,source_url
+Raw Organic Protein,Unflavored,658010114158,30,20,120,2.0,4,2,0,22,320,40.79,2026-11-18,medium,https://www.gardenoflife.com/products/our-protein/raw-organic-protein-powder-unflavored-no-stevia
+Raw Organic Protein,Vanilla,658010116039,33,20,130,2.5,6,5,0,22,300,40.79,2026-11-18,high,https://www.vitacost.com/garden-of-life-raw-organic-protein-plant-based-formula-vanilla
+Raw Organic Protein,Chocolate,658010115940,35,20,140,3.0,7,5,0,22,350,40.79,2026-11-18,high,https://www.nhc.com/products/raw-organic-protein-by-garden-of-life
+Raw Organic Protein,Vanilla Chai,658010116060,34,20,140,2.5,7,3,0,22,300,40.79,2026-11-18,high,https://www.vitacost.com/garden-of-life-raw-organic-protein-plant-based-formula-vanilla-chai
+Raw Organic Meal,Vanilla,658010116948,38,28,150,2.0,13,7,0,20,190,29.59,2026-11-18,high,https://www.heb.com/product-detail/garden-of-life-raw-organic-20g-protein-meal-replacement-vanilla/1574261
+Raw Organic Meal,Chocolate,658010115933,38,28,150,2.0,13,7,0,20,190,29.59,2026-11-18,medium,https://www.gardenoflife.com/products/our-protein/raw-organic-meal-replacement-protein-powder-chocolate
+Raw Organic Meal,Lightly Sweet,658010116961,38,28,150,2.0,12,6,0,20,310,29.59,2026-11-18,medium,https://www.gardenoflife.com/products/raw-organic-meal-lightly-sweet-powder
+Raw Organic Meal,Vanilla Spiced Chai,658010116428,38,28,150,2.0,13,7,0,20,190,29.59,2026-11-18,high,https://www.swansonvitamins.com/p/garden-of-life-raw-meal-organic-vanilla-spiced-chai-2-5-lbs-pwdr
+Raw Organic Fit,Original,658010116725,45.5,20,170,2.0,12,9,1,28,150,41.59,2026-11-18,medium,https://www.gardenoflife.com/products/our-protein/raw-organic-fit-protein-original-powder
+Raw Organic Fit,Vanilla,658010116749,46,20,170,2.0,12,9,1,28,150,41.59,2026-11-18,high,https://fullscript.com/catalog/products/raw-organic-fit-double-size-vanilla-32-2oz-2lbs-913g-powder
+Raw Organic Fit,Chocolate,658010116732,45.5,20,170,2.0,12,9,1,28,200,41.59,2026-11-18,high,https://fullscript.com/catalog/products/raw-organic-fit-double-size-chocolate-32-5oz-2lbs-922g-powder
+Raw Organic Fit,Coffee,658010117548,46.5,10,170,2.0,12,9,1,28,150,41.59,2026-11-18,low,https://www.gardenoflife.com/products/lifestyle/organic/raw-organic-fit-protein-powder-coffee
+SPORT Organic Plant-Based,Vanilla,658010119436,45,19,170,3.0,7,3,1,30,460,47.99,2026-11-18,high,https://covenanthealthproducts.com/sport-organic-plant-based-protein-vanilla/
+SPORT Organic Plant-Based,Chocolate,658010119412,48,19,180,3.5,8,4,2,30,460,47.99,2026-11-18,high,https://www.swansonvitamins.com/p/garden-of-life-sport-organic-plant-based-protein-chocolate-29-6-oz-1-lb-14-oz-840-g-pwdr
+Raw Organic Protein & Greens,Vanilla,658010118705,27.5,20,110,2.0,3,1,0,20,170,40.79,2026-11-18,high,https://www.vitacost.com/garden-of-life-raw-organic-protein-greens
+Raw Organic Protein & Greens,Chocolate Cacao,658010118729,30.5,20,120,2.0,4,3,1,20,150,40.79,2026-11-18,high,https://www.nutritionvalue.org/Raw_organic_protein_%26_greens_powder%2C_chocolate_cacao%2C_chocolate_cacao_by_Garden_of_Life%2C_Inc._1137210_nutritional_value.html
+Raw Organic Protein & Greens,Lightly Sweet,658010118712,30,20,130,1.0,10,6,6,20,170,40.79,2026-11-18,low,https://tools.myfooddata.com/brand-food-data/Garden%20Of%20Life
+Organic Creamy Protein with Oatmilk,Vanilla Cookie,658010132725,43,20,160,4.0,14,5,1,20,340,35.99,2026-11-18,high,https://www.swansonvitamins.com/p/garden-of-life-organic-creamy-protein-oatmilk-powder-vanilla-cookie-1-lb-14-34-oz-pwdr
+Organic Creamy Protein with Oatmilk,Chocolate Brownie,658010132718,46,20,170,4.5,16,6,1,20,350,35.99,2026-11-18,high,https://www.nhc.com/products/organic-creamy-protein-by-garden-of-life?variant=52358999998764
