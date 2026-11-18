@@ -19,7 +19,7 @@ Two rules for reading it:
 | **GOL Organic Creamy Protein with Oatmilk** | 20 g | $0.090 | **1.59 µg** (Mamavation 2024) | **318%** | **6.55 µg (160%)** | not published | USDA Org, Non-GMO | PFAS + phthalates detected; chocolate flavor |
 | Orgain Organic Protein, Vanilla Bean | 21 g | ~$0.091 | **0.70 µg** (CR 2025) | 143% | not flagged | pea + rice + chia | USDA Org, Non-GMO | Nestlé-owned; "occasional use" band |
 | KOS Organic Superfood, Vanilla | 20 g | ~$0.060 | **0.55 µg** (CR 2025) | 112% | — | pea + flax + quinoa + pumpkin + chia | USDA Org, Non-GMO | Glyphosate detected in chocolate version (Mamavation) |
-| Vega Premium Sport, Chocolate | 30 g | ~$0.114 | **0.91 µg** (CR 2025) | 185% | 4.36 µg (106%) | pea + pumpkin + sunflower | USDA Org? (Vega Sport is not organic) | Reformulated/sourced since test |
+| Vega Premium Sport, Chocolate | 30 g | ~$0.114 | **0.91 µg** (CR 2025) | 185% | 4.36 µg (106%) | pea + pumpkin + sunflower | No | Reformulated/sourced since test |
 | Truvani Organic Plant Protein, Chocolate | 20 g | ~$0.08–0.15 | **0.46 µg** (CR 2025) | 93% | — | pea + pumpkin + chia | USDA Org | Lowest-lead plant powder in CR's test |
 | Ritual Essential Protein, Chocolate | 20 g | ~$0.147 | **0.53 µg** (CR 2026) | 107% | — | pea | — | Lot-tested, limits published |
 | Transparent Labs Organic Vegan, Vanilla | 24 g | ~$0.070 | **0.152 µg** per brand COA | 30% | — | rice + pea | Informed Choice/Protein | Brand-published COA, lot-specific |

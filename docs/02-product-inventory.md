@@ -36,6 +36,8 @@ Garden of Life's US protein category listed **43 items** on 18 November 2026. Ni
 
 \* Fit Coffee is sold in a 465 g / 10-serving tub at the same $41.59 price, which doubles its cost per serving. That looks like a packaging/pricing anomaly rather than a different formula, but it is what the listing says.
 
+Rows whose panel is single-source or from an older label — Unflavored, Meal Lightly Sweet, Fit Original, Fit Coffee and Protein & Greens Lightly Sweet — carry `panel_confidence` medium or low in the CSV; treat their exact calorie/fiber figures as provisional.
+
 All prices: Garden of Life US list, 18 Nov 2026. Servings per container: 20 for all Raw Organic Protein, Protein & Greens and Creamy Oatmilk; 28 for Raw Organic Meal; 20 for Fit (10 for Coffee); 19 for SPORT.
 
 ## 2.2 Raw Organic Protein — the flagship

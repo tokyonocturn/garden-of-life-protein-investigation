@@ -42,7 +42,7 @@ At two servings a day, double it. A daily SPORT habit costs about **$1,850/year*
 
 Using published competitor prices (see [11](11-comparisons.md) for sources and caveats):
 
-| Product | $/g protein | Multiple of cheapest whey |
+| Product | $/g protein | Multiple of whey reference |
 |---|---:|---:|
 | Naked Pea (unflavored, 5 lb) | ~$0.028 | 0.7× |
 | Optimum Nutrition Gold Standard Whey | ~$0.040 | 1.0× (reference) |
