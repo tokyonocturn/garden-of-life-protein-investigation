@@ -62,10 +62,10 @@ docs/
   12-verdict.md                   Advantages, disadvantages, risks, who should/shouldn't
   13-references.md                Full numbered reference list with URLs
 data/
-  products.csv                    Product/flavor master table with panels and prices
-  amino_acids.csv                 Labeled amino acid profiles (mg per serving)
-  contaminants.csv                Every published independent test result found
-  thresholds.csv                  Regulatory and advisory limits used for comparison
+  gol_products.csv                Product/flavor master table with panels and prices
+  gol_amino_acids.csv             Labeled amino acid profiles (mg per serving)
+  gol_contaminants.csv            Every published independent test result found
+  gol_thresholds.csv              Regulatory and advisory limits used for comparison
 scripts/
   analyze.py                      Recomputes all derived tables (stdlib only)
   check_links.py                  Verifies every cited URL resolves
