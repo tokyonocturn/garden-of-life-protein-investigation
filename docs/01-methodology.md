@@ -28,7 +28,7 @@ A manufacturer's statement that a product "is tested for heavy metals" is Tier 4
 
 The unit of analysis is the **SKU (product line × flavor × size)**, because panels, sweeteners and serving sizes differ by flavor, and contamination differs by flavor (cocoa and plant protein are both metal accumulators).
 
-Garden of Life's US protein category listed 43 items on 18 Nov 2026. Restricting to **organic plant-based protein powders** yields six lines and 19 flavors (see `data/products.csv`). Excluded from the main analysis but noted where relevant:
+Garden of Life's US protein category listed 43 items on 18 Nov 2026. Restricting to **organic plant-based protein powders** yields six lines and 19 flavors (see `data/gol_products.csv`). Excluded from the main analysis but noted where relevant:
 
 - SPORT Certified Grass-Fed Whey (dairy; non-organic protein)
 - Organic Whey Protein (dairy)
@@ -39,7 +39,7 @@ Garden of Life's US protein category listed 43 items on 18 Nov 2026. Restricting
 
 Panels were taken from the current Garden of Life product pages where rendered, and otherwise from dated retailer labels (Vitacost, Swanson, PureFormulas, Fullscript, H-E-B), cross-checked against at least two independent listings where possible. Conflicting labels are recorded rather than averaged, because the conflicts are themselves findings: the Raw Organic Protein scoop has migrated from 29 g to 33–35 g, calories from 110 to 130–140, and fiber from 1 g to 3–5 g across label versions. A 2019 review and a 2026 review of "the same product" may therefore be describing different powders.
 
-`data/products.csv` carries a `panel_confidence` field: `high` (two concordant current listings), `medium` (single current listing or a known transition), `low` (older label or unverified).
+`data/gol_products.csv` carries a `panel_confidence` field: `high` (two concordant current listings), `medium` (single current listing or a known transition), `low` (older label or unverified).
 
 ## 5. Amino acid scoring (the calculation this report adds)
 
@@ -57,7 +57,7 @@ Benchmarks for comparison are taken from published values: whey isolate PDCAAS 1
 
 ## 6. Contaminant assessment
 
-### 6.1 Benchmarks (see `data/thresholds.csv`)
+### 6.1 Benchmarks (see `data/gol_thresholds.csv`)
 
 | Benchmark | Lead | Cadmium | Inorganic arsenic | Mercury | Status |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@ The spread between 0.5 and 10 µg/day is a factor of 20. **Any claim that a prod
 - **Price per serving** = listed price ÷ servings per container.
 - **Price per gram protein** = price per serving ÷ labeled protein per serving.
 - **Price per 25 g protein** normalizes across products with different protein doses, because 20 g and 30 g servings are not comparable.
-- Prices are Garden of Life's own US list prices on 18 Nov 2026, before tax and shipping; subscription prices (15% off) are shown separately in `data/products.csv` where published. Competitor prices are the lowest published list price found on the cited source in Nov 2026 and are marked approximate.
+- Prices are Garden of Life's own US list prices on 18 Nov 2026, before tax and shipping; the 15% subscription discount (20% after the fourth order) is noted but not tabulated separately, because it varies by promotion. Competitor prices are the lowest published list price found on the cited source in Nov 2026 and are marked approximate.
 
 ## 8. Verification performed
 

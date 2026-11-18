@@ -39,7 +39,7 @@ Research cut-off: **18 November 2026**. All prices, labels and test results are 
 
 Adjacent dairy SKUs (SPORT Grass-Fed Whey, Organic Whey Protein) are noted only where they are the relevant comparison, because they are not organic *plant* protein.
 
-Every flavor's panel, ingredients, sweeteners, and per-gram price: **[docs/02-product-inventory.md](docs/02-product-inventory.md)** and **[data/nutrition.csv](data/nutrition.csv)**.
+Every flavor's panel, ingredients, sweeteners, and per-gram price: **[docs/02-product-inventory.md](docs/02-product-inventory.md)** and **[data/gol_products.csv](data/gol_products.csv)**.
 
 ---
 
