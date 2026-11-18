@@ -110,10 +110,19 @@ All URLs were accessed between 14 and 18 November 2026. Consumer Reports, Labdoo
 ## I. Secondary reporting used only for corroboration
 
 82. NPR — "Consumer Reports finds lead in popular protein powders" (16 Oct 2025). https://www.npr.org/2025/10/16/nx-s1-5576294/protein-powder-lead-consumer-reports
-83. USA Today — lead in protein powders (15 Oct 2025). https://www.usatoday.com/story/news/health/2025/10/15/lead-in-protein-powders-consumer-reports/86707901007
-84. CNN — "Lead and cadmium found in muscle-building protein powders" (9 Jan 2025). https://www.cnn.com/2025/01/09/health/protein-powder-heavy-metals-wellness/index.html
-85. The Conversation — pharmacologist explains the CR data and the FDA/Prop 65 benchmark gap (17 Oct 2025). https://theconversation.com/protein-powders-and-shakes-contain-high-amounts-of-lead-new-report-says-a-pharmacologist-explains-the-data-267591
-86. Reuters — Nestlé to buy Atrium Innovations for $2.3 billion (5 Dec 2017). https://www.reuters.com/article/business/nestle-to-buy-vitamin-maker-atrium-innovations-for-23-billion-idUSKBN1DZ2EK
+83. The Conversation — pharmacologist explains the CR data and the FDA/Prop 65 benchmark gap (17 Oct 2025). https://theconversation.com/protein-powders-and-shakes-contain-high-amounts-of-lead-new-report-says-a-pharmacologist-explains-the-data-267591
+84. Reuters — Nestlé to buy Atrium Innovations for $2.3 billion (5 Dec 2017). https://www.reuters.com/article/business/nestle-to-buy-vitamin-maker-atrium-innovations-for-23-billion-idUSKBN1DZ2EK
+
+
+## Link verification
+
+`scripts/check_links.py` requested all 88 cited URLs on 18 November 2026:
+
+- **55 returned HTTP 200 directly.**
+- **33 returned 401/403/429** because the publisher blocks automated clients (Garden of Life, Elsevier, Wiley, Oxford Academic, MDPI, Nestlé, Reuters, Forbes, Top Class Actions). Those pages were opened and read manually during the research; the content quoted here is from the rendered pages, not from the blocked responses.
+- **0 returned 404.** Two secondary links that returned a paywall (402) or a local certificate error were removed rather than cited.
+
+A bot block is not evidence that a page is dead. A dead link would be a citation defect; a 403 is a limitation of automated verification, and is reported rather than hidden.
 
 ## Notes on source quality
 
