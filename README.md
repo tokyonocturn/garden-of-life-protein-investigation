@@ -97,7 +97,7 @@ Where a number is an estimate I say so and show the arithmetic. Where sources di
 
 ## Source verification
 
-Link checking only proves a URL answered. Every source that returned 401/403/429 to an automated request was re-checked against Crossref, PubMed, Semantic Scholar or an archived copy, and each claim was matched to the paper's abstract rather than its title. All 15 peer-reviewed articles were confirmed; three web citations were corrected or replaced and one was removed. The per-source record, including what could not be confirmed and why, is in [docs/14-source-verification.md](docs/14-source-verification.md).
+Link checking only proves a URL answered. Every source that returned 401/403/429 to an automated request was re-checked against Crossref, PubMed, Semantic Scholar or an archived copy, and each claim was matched to the paper's abstract rather than its title. All 15 peer-reviewed articles were confirmed, three of them with corrected journal or DOI details; three web sources were replaced with loadable first-party equivalents and one unreadable news link was removed. The per-source record, including what could not be confirmed and why, is in [docs/14-source-verification.md](docs/14-source-verification.md).
 
 ## What this is not
 

@@ -45,7 +45,7 @@ All fifteen matched on title, journal, year and first author, and the abstract w
 | 5 | Raw Organic Fit, Original | Wayback 2024-11-08 | Confirmed |
 | 6 | Raw Organic Meal, Lightly Sweet | Wayback 2023-03-26 | Confirmed |
 | 7 | Creamy Protein with Oatmilk | Wayback 2025-07-23 | Confirmed |
-| 8 | GOL certifications page | Wayback 2021-10-06 (page lists USDA, Non-GMO, Kosher, Certified) | Confirmed |
+| 8 | GOL certifications page | Wayback 2021-10-06 (page lists USDA, Non-GMO and Certified) | Confirmed |
 | 9 | GOL COA page | Wayback 2026-04-13 (`Certificate`, `COA` present) | Confirmed |
 | 10 | GOL "Sold to Nestlé" blog | Wayback 2026-05-16 | Confirmed |
 | 11 | Nestlé Atrium acquisition release | Wayback 2025-08-04 | Confirmed |

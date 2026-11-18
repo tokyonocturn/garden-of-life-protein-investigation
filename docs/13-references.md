@@ -121,7 +121,7 @@ All URLs were accessed between 14 and 18 November 2026. Consumer Reports, Labdoo
 - **30 returned 401/403/429** because the publisher blocks automated clients (Garden of Life, Elsevier, Wiley, Oxford Academic, MDPI, BMJ, Nestlé, Top Class Actions).
 - **0 returned 404.**
 
-A bot block is not a dead link, but it is also not verification. Every one of the 30 was therefore re-checked through Crossref, PubMed, Semantic Scholar, the Wayback Machine or a rendered copy, and the outcome for each is recorded in [14 — Source verification log](14-source-verification.md). Four citations turned out to be wrong or unverifiable: one had the wrong journal, two pointed at the wrong page, one secondary news link could not be read anywhere and was removed.
+A bot block is not a dead link, but it is also not verification. Every one of the 30 was therefore re-checked through Crossref, PubMed, Semantic Scholar, the Wayback Machine or a rendered copy, and the outcome for each is recorded in [14 — Source verification log](14-source-verification.md). Seven citations needed a change: one had the wrong journal, two pointed at the wrong page identifier, three first-party or register pages could not be loaded by any route and were replaced with equivalent primary sources, and one unreadable news link was removed.
 
 ## Notes on source quality
 
