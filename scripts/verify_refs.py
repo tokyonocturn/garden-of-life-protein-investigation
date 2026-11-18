@@ -134,6 +134,11 @@ def check_journals() -> None:
 
 
 def main() -> int:
+    # Windows consoles default to cp1252; metadata contains accented surnames.
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
     parser = argparse.ArgumentParser()
     parser.add_argument("--route", choices=["wb", "doi", "all"], default="all")
     args = parser.parse_args()
